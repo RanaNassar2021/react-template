@@ -1,0 +1,13 @@
+
+.app{text-align: center;}
+.s1{background-color: #1f2937;  color: antiquewhite;}
+.col1{background-color:#1f2937 ; height: 40vh; margin-top: 2.5%;
+     border: transparent; text-align: left;}
+ .title{margin-top: 10%;}    
+.col2{ height: auto; margin-top: 0%; border: transparent; 
+    background-color: #1f2937 }
+.img{height: auto; width: auto;}
+.p1{font-size: 4=18px;}
+.s3{height: auto; background-color: #c5d2ec;}
+.s4{text-align: left;}
+.testimonial-text{ font-size: 30px; font-family: 'Times New Roman', Times, serif;}
